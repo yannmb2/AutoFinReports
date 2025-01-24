@@ -36,7 +36,7 @@ The end goal is to produce a polished, multi-graph report that highlights key fi
   - [Matplotlib](https://matplotlib.org/) and [Seaborn](https://seaborn.pydata.org/) for creating graphs and charts.
 - **Report Generation**: 
   - [FPDF](https://pyfpdf.github.io/) or [ReportLab](https://www.reportlab.com/) for creating PDF files.
-- **Data Sources**: APIs such as [Yahoo Finance](https://pypi.org/project/yfinance/) or [Alpha Vantage](https://www.alphavantage.co/).
+- **Data Sources**: APIs such as [Yahoo Finance](https://pypi.org/project/yfinance/).
 - **Others**: Python libraries like `os` and `datetime` for automation tasks.
 
 ---
